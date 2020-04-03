@@ -1,5 +1,5 @@
-# Round trip time (RTT) ping measurement with Bash and RRDtool
-Shell bash script that using RRDTool generates daily, weekly, monthly and annual statistical graphs of round trip time ping on the monitored equipaments, all in a very simple way.
+# Round-trip time (RTT) ping measurement with Bash and RRDtool
+Shell bash script that using RRDTool generates daily, weekly, monthly and annual statistical graphs of round-trip time ping on the monitored equipaments, all in a very simple way.
 ## Development
 ### This project was developed and tested in the following environment:
 ```
