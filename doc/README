@@ -1,6 +1,6 @@
 About
 -----
-The "rrd-rttping.sh" is a Shell bash script that using RRDTool generates daily, weekly, monthly and annual statistical graphs of round trip time ping on the monitored equipaments, all in a very simple way.
+The "rrd-rttping.sh" is a Shell bash script that using RRDTool generates daily, weekly, monthly and annual statistical graphs of round-trip time ping on the monitored equipaments, all in a very simple way.
 
 Development
 -----------
